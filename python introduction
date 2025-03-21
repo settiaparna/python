@@ -3,6 +3,8 @@ It is a objected orinted language ,script,and high level language
 python use .py extensions
 when u  write the python code and run the code scussfully the out will be come in immediately
 in above how the output come while run programme. is when u run the program the compiler can translate the programming code  into mechinary code and interpreter translate code can be run line by line .
+variable=value
+example A=10
 
 
 
