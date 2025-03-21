@@ -1,0 +1,12 @@
+varaiable=Value
+eg;A=10
+   in above A is varaiable and 10 is Value
+syntax ; 
+    print("a")
+       in above the syntax print a can be output the a Value
+Syntax for multiple varaiables 
+      A,B,C=10,20,30
+    Print(A,B,C)
+    c=1,2,3
+     d=v=x=2   
+    a,b,c=10 (single valuse for thoise varaiable are not accepted)
